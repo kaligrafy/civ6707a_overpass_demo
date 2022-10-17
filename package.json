@@ -8,6 +8,8 @@
   "type": "module",
   "private": false,
   "dependencies": {
+    "@turf/area": "^6.5.0",
+    "@turf/distance": "^6.5.0",
     "node-fetch": "^3.2.10"
   }
 }
