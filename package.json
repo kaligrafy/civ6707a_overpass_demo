@@ -1,0 +1,13 @@
+{
+  "name": "civ6707a_overpass_demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kaligrafy/civ6707a_overpass_demo",
+  "author": "Pierre-Léo Bourbonnais <leo.bourbonnais@polymtl.ca>",
+  "license": "MIT",
+  "type": "module",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
